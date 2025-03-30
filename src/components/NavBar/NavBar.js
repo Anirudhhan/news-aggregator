@@ -165,7 +165,7 @@ function NavBar() {
             </NavDropdown>
           </Nav>
           <div className="date-picker">
-            <DatePicker selected={startDate} onChange={handleDateChange} />
+            <DatePicker selected={startDate} onChange={handleDateChange} disabled />
           </div>
           <Form className="search-form" onSubmit={handleSubmit}>
             <FormControl
