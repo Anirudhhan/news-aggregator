@@ -7,7 +7,6 @@ import { NotRouteFound } from '../components';
 import NewsPieChart from '../components/NewsPieChart';
 import ChatWithAI from '../chatwithai/ChatWithAI';
 
-// dfhwjdc
 const appRouter = createBrowserRouter([
   {
     path: "/",
