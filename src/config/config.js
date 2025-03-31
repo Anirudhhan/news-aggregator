@@ -26,7 +26,7 @@ export const sources = [
     key: "guardian-api",
   },
   {
-    name: "New Yourk Times API",
+    name: "New York Times API",
     key: "ny-times",
   },
   {
