@@ -55,6 +55,7 @@ const ChatWithAI = () => {
         content: 'Hello! I can help you understand recent news or provide summaries of current events. What would you like to know about?'
       }
     ]);
+    // eslint-disable-next-line
   }, []);
 
   const handleSubmit = async (e) => {

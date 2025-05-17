@@ -5,7 +5,7 @@ import HomePage from '../pages/HomePage/HomePage';
 import PersonalizedPage from '../pages/PersonalizedPage/PersonalizedPage';
 import { NotRouteFound } from '../components';
 import NewsPieChart from '../components/NewsPieChart';
-import ChatWithAI from '../chatwithai/ChatWithAI';
+import ChatWithAI from '../pages/chatwithai/ChatWithAI';
 
 const appRouter = createBrowserRouter([
   {
